@@ -1,0 +1,24 @@
+{
+  "name": "js-class-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel es6_format/src -d es6_format/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javmarr/js-class-practice.git"
+  },
+  "author": "Javier Marroquin <j_marroquin@live.com> (https://github.com/javmarr/resume)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javmarr/js-class-practice/issues"
+  },
+  "homepage": "https://github.com/javmarr/js-class-practice#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
